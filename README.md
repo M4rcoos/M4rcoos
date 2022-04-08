@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-      &nbsp;&nbsp; :arrow_forward:	 Skills: <strong> C#, JavaScript, HTML, CSS </strjong> <br>
+      &nbsp;&nbsp; :arrow_forward:	 Skills: <strong>  React, Nodejs, Express, C#, JavaScript, HTML e CSS </strjong> <br>
       &nbsp;&nbsp;  💼	Ferramentas:   <strong> Visual Studio, VSCode e Git </strong> <br>
 </p>
 
@@ -31,8 +31,12 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
-  <img align="center" alt="vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="icon-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="icon-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="icon-express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+    <img align="center" alt="icon-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   
  <img align="center" alt="vini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
