@@ -3,7 +3,7 @@
 
 <p align="left">
   <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" height="30px width="30px" >  
-  Olá, meu nome é  Marcos Vinicius, atualmente estou cursando o curso de Desenvolvimento Web Full Stack estou disponivel para oportunidades 
+  Olá, meu nome é  Marcos Vinicius, atualmente trabalho como desenvolvedor backand NodeJs 
 </p>
 
 <p align="left">
