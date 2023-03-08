@@ -3,11 +3,11 @@
 
 <p align="left">
   <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" height="30px width="30px" >  
-  Olá, meu nome é  Marcos Vinicius, atualmente trabalho como desenvolvedor backand NodeJs 
+  Olá, meu nome é  Marcos Vinicius, atualmente trabalho como desenvolvedor Mobile.
 </p>
 
 <p align="left">
-      &nbsp;&nbsp; :arrow_forward:	 Skills: <strong>  React, Nodejs, Express, C#, JavaScript, HTML e CSS </strjong> <br>
+      &nbsp;&nbsp; :arrow_forward:	 Skills: <strong>  React,React Native, Nodejs, Express, JavaScript, HTML e CSS </strjong> <br>
       &nbsp;&nbsp;  💼	Ferramentas:   <strong> Visual Studio, VSCode e Git </strong> <br>
 </p>
 
