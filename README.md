@@ -40,5 +40,4 @@
   
  <img align="center" alt="vini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
- ![Snake animation](https://github.com/M4rcoos/M4rcoss/blob/output/github-contribution-grid-snake.svg)
   
