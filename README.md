@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-      &nbsp;&nbsp; :arrow_forward:	 Skills: <strong>  Asp.net, c#, React,React Native, Nodejs, Express, JavaScript, HTML e CSS </strjong> <br>
+      &nbsp;&nbsp; &rarr; :	 Skills: <strong>  Asp.net, c#, React,React Native, Nodejs, Express, JavaScript, HTML e CSS </strjong> <br>
       &nbsp;&nbsp;  💼	Ferramentas:   <strong> Visual Studio, VSCode e Git </strong> <br>
 </p>
 
