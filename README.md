@@ -3,12 +3,12 @@
 
 <p align="left">
   <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" height="30px width="30px" >  
-  Olá, meu nome é  Marcos Vinicius, atualmente trabalho como desenvolvedor Frontend com Asp.net
+  Olá, meu nome é  Marcos Vinicius, sou desenvolvedor focado em aplicações web responsivas. Contribuido em projetos Frontend e Backend
 </p>
 
 <p align="left">
       &nbsp;&nbsp; &rarr; :	 Skills: <strong>  Asp.net, c#, React,React Native, Nodejs, Express, JavaScript, HTML e CSS </strjong> <br>
-      &nbsp;&nbsp;  💼	Ferramentas:   <strong> Visual Studio, VSCode e Git </strong> <br>
+      &nbsp;&nbsp;  💼	Ferramentas:   <strong> Visual Studio, VSCode, Linux, Docker, MySql e Git </strong> <br>
 </p>
 
 
